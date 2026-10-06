@@ -118,9 +118,9 @@ I enjoy transforming complex ideas into efficient, real-world applications while
 
 | 🧩 Problem Solving | 🏅 Competitive Programming | 🚀 Academic & Milestones |
 | :--- | :--- | :--- |
-| **1400+** Total DSA Problems Solved | **LeetCode:** Knight (1953) | **ICPC Prelims 2025:** AIR 384 |
-| **120+** LeetCode Hard Problems | **Codeforces:** Specialist (1488) | **JEE Advanced 2024:** CRL 4342 |
-| **900+** Codeforces Problems | **CodeChef:** 3-Star (1762) | **JEE Main 2024:** 99.47 Percentile |
+| **1600+** Total DSA Problems Solved | **LeetCode:** Knight (2098) | **ICPC Prelims 2025:** AIR 384 |
+| **150+** LeetCode Hard Problems | **Codeforces:** Specialist (1488) | **JEE Advanced 2024:** CRL 4342 |
+| **1000+** Codeforces Problems | **CodeChef:** 3-Star (1762) | **JEE Main 2024:** 99.47 Percentile |
 
 </div>
 
