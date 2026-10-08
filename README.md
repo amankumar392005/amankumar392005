@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=1400%2B+DSA+Problems+Solved;IIT+Patna+CSE+Undergrad;Full+Stack+Developer;ICPC+Regionalist;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <p align="center">
-<a href="https://leetcode.com/u/Amankumar9934/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Knight%20(1953)-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Amankumar9934/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Knight%20(2098)-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/4bit" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Specialist%20(1488)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/aman_08_cpp" target="_blank"><img src="https://img.shields.io/badge/CodeChef-3%20Star%20(1762)-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aman-kumar-507088377" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
